@@ -1,0 +1,9 @@
+pandas>=1.5.0
+chardet>=4.0.0
+python-dateutil>=2.8.0
+numpy>=1.21.0
+openpyxl>=3.0.0
+pyarrow>=7.0.0
+requests>=2.25.0
+psycopg2-binary>=2.9.0
+mysql-connector-python>=8.0.0 
