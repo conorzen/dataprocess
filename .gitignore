@@ -135,4 +135,9 @@ dmypy.json
 *.xls
 demo_*.csv
 test_*.csv
-sample_*.csv 
+sample_*.csv
+
+# Build artifacts
+dist/
+build/
+*.egg-info/ 
