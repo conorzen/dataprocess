@@ -33,7 +33,7 @@ jobs:
     
     - name: Run tests
       run: |
-        pytest tests/ -v
+        python -m pytest tests/ -v
     
     - name: Run example scripts
       run: |

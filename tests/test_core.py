@@ -1,5 +1,5 @@
 """
-Unit tests for CSV Buddy core functionality.
+Unit tests for DataProcessing core functionality.
 """
 
 import pytest
