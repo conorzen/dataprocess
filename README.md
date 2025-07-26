@@ -1,5 +1,7 @@
 # DataProcessing
 
+[![Tests](https://github.com/conorzen/dataprocess/workflows/Test%20DataProcessing%20Package/badge.svg)](https://github.com/conorzen/dataprocess/actions)
+
 A user-friendly Python package for working with CSV data. DataProcessing makes common CSV operations simple and intuitive, with smart defaults and helpful error messages.
 
 ## Features
